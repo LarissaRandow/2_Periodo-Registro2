@@ -41,7 +41,6 @@ int main()
         printf("Nome: %s\n",Alunos[i].nome);
         printf("Turma: %s\n",Alunos[i].turma);
         printf("Media: %f\n",Media[i]);
-
     }
     return 0;
 }
